@@ -1,6 +1,6 @@
 
  <div id = "header" align = "center">
-   <img src = "https://img.shields.io/badge/I am a QA-orange" width = "100" />
+   <img src = "https://img.shields.io/badge/I am a QA Engineer-orange" width = "150" />
  </div> 
  <div id = "badges" align = "center">
    <img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor-white&style=for-the-badge" />
@@ -17,8 +17,8 @@
  </div>
 
  ### :woman_technologist: About Me :
- I am a Quality Assurance <img src = "https://media.giphy.com/media/WulplcMpOCEmTGBtBW/giphy.gif" width= "30"> from Russia.
- - :telescope: I'm a QA Engineer. I test websites, write test documentation.
+ I am a Quality Assurance Engineer <img src = "https://media.giphy.com/media/WulplcMpOCEmTGBtBW/giphy.gif" width= "30"> from Russia.
+ - :telescope: I test websites, write test documentation.
  - :seedling: I'm learning API.
  - :zap: In my free time I read Roman Savin’s book “Dot Com Testing, or A Guide to Abuse of Bugs in Internet Startups”.
  - :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/Maria-blue?style=flat&logo=Telegram&logoColor=white)](@Mariya_5_12)
@@ -27,8 +27,7 @@
  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
  ### :fire: My Stats :
- 
  [![GitHub Streak](https://streak-stats.demolab.com?user=Maria-05-12&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
 
-  
+ 
    

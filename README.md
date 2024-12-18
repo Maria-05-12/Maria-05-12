@@ -24,7 +24,12 @@
  - :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/Maria-blue?style=flat&logo=Telegram&logoColor=white)](@Mariya_5_12)
 
  ### :hammer_and_wrench: Languages and Tools :
- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+ ![Python](https://img.shields.io/badge/Python-7FFFD4?style=for-the-badge&logo=python&logoColor=blue)
+ ![SQL](https://img.shields.io/badge/SQL-F5F5DC?style=for-the-badge&logo=sql&logoColor=blue)
+ <img src = "https://img.shields.io/badge/HTML-white?logo=html5&logoColor-red&style=for-the-badge" />
+ <img src = "https://img.shields.io/badge/Test case-778899?logo=testcase&logoColor-red&style=for-the-badge" />
+ <img src = "https://img.shields.io/badge/Check list-DAA520?logo=Check list&logoColor-red&style=for-the-badge" />
+ <img src = "https://img.shields.io/badge/bug report-32CD32?logo=bug report&logoColor-red&style=for-the-badge" />
 
  ### :fire: My Stats :
  [![GitHub Streak](https://streak-stats.demolab.com?user=Maria-05-12&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
